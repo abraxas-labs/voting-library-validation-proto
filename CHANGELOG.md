@@ -1,4 +1,4 @@
-# ✨ Changelog (`v1.0.1`)
+# ✨ Changelog (`v1.1.0`)
 
 All notable changes to this project will be documented in this file.
 
@@ -8,11 +8,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Version Info
 
 ```text
-This version -------- v1.0.1
+This version -------- v1.1.0
 Previous version ---- v1.0.1
 Initial version ----- v1.0.1
 Total commits ------- 1
 ```
+
+## [v1.1.0] - 2022-10-14
+
+### 🔄 Changed
+
+- add map and double rules
 
 ## [v1.0.1] - 2022-09-05
 
