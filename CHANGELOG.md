@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ```text
 This version -------- v1.2.0
-Previous version ---- v1.1.0
+Previous version ---- v1.2.0
 Initial version ----- v1.0.1
 Total commits ------- 1
 ```
